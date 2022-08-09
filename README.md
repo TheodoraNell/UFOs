@@ -1,4 +1,4 @@
-# THE TRUTH IS OUT THERE: Fun with UFO Signtings
+# THE TRUTH IS OUT THERE
 Creating a dynamic, interactive website to display UFO sighting data
 
 ## Overview
