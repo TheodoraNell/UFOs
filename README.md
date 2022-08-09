@@ -7,11 +7,11 @@ The purpose of this analysis is to create a functional dynamic website that incl
 ## Results
 How to use the webpage:
 
-![main_page](https://user-images.githubusercontent.com/99051640/183771339-d555911c-873f-4967-aff4-f2c8b1f57e17.png)
+![main_page](https://user-images.githubusercontent.com/99051640/183771626-c691ef3c-6c23-45a4-a020-1cc5f4288ce7.png)
 
 1) The main page will load with all of the unfiltered data displayed for the user to scroll through. 
 
-![filter_search](https://user-images.githubusercontent.com/99051640/183771407-d0c85f6f-9200-4361-a7f7-4da60dcfb4cb.png)
+![filter_search](https://user-images.githubusercontent.com/99051640/183771736-4efe74e1-3a25-4a47-b32a-2b2c03530c73.png)
 
 2) To search for specific criteria, the user may input text into any of the fields within the "Filter Search" box on the middle-left of the page.
 
