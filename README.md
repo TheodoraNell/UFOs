@@ -7,15 +7,15 @@ The purpose of this analysis is to create a functional dynamic website that incl
 ## Results
 How to use the webpage:
 
-![main_page](https://user-images.githubusercontent.com/99051640/183771626-c691ef3c-6c23-45a4-a020-1cc5f4288ce7.png)
+![main_page](https://user-images.githubusercontent.com/99051640/183771869-03a47280-15d5-4123-8a36-7dfb5b0fa3a0.png)
 
 1) The main page will load with all of the unfiltered data displayed for the user to scroll through. 
 
 ![filter_search](https://user-images.githubusercontent.com/99051640/183771736-4efe74e1-3a25-4a47-b32a-2b2c03530c73.png)
 
 2) To search for specific criteria, the user may input text into any of the fields within the "Filter Search" box on the middle-left of the page.
-
-![city_filter](https://user-images.githubusercontent.com/99051640/183771429-5f3c6c8a-3497-4cab-a775-f25eb0a1d26a.png)
+3) 
+![city_filter](https://user-images.githubusercontent.com/99051640/183771971-1d75ff1f-cf55-40f7-be08-ee236393a623.png)
 
 3) Once a user has input text into the desired field(s), they should press enter to update the table. If there is no matching data, the table will be blank.
 
