@@ -1,4 +1,4 @@
-# UFOs
+# THE TRUTH IS OUT THERE: Fun with UFO Signtings
 Creating a dynamic, interactive website to display UFO sighting data
 
 ## Overview
@@ -14,10 +14,10 @@ How to use the webpage:
 ![filter_search](https://user-images.githubusercontent.com/99051640/183771736-4efe74e1-3a25-4a47-b32a-2b2c03530c73.png)
 
 2) To search for specific criteria, the user may input text into any of the fields within the "Filter Search" box on the middle-left of the page.
-3) 
+
 ![city_filter](https://user-images.githubusercontent.com/99051640/183771971-1d75ff1f-cf55-40f7-be08-ee236393a623.png)
 
-3) Once a user has input text into the desired field(s), they should press enter to update the table. If there is no matching data, the table will be blank.
+3) Once a user has input text into the desired field(s) they should press enter to update the table. If there is no matching data, the table will be blank.
 
 ![city_state_filter](https://user-images.githubusercontent.com/99051640/183771447-e84e45e6-28de-4a55-ab1c-675c7fb4a135.png)
 
